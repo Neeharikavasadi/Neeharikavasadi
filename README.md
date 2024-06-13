@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there! I'm Neeharika Vasadi👋<br><br>🌱 I’m a student at SRM University AP<br><br>🤔 I’m pursuing my B.Tech in Computer Science<br><br>📫 LinkedIn profile: www.linkedin.com/in/neeharikavasadi<br><br>😄 Pronouns: she/her
 
 
